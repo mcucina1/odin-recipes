@@ -1,0 +1,19 @@
+.top .bottom{
+    color:blue
+}
+.above .top {
+    background-color: #ff000035
+}
+p {
+    font-family: "arial", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+img {
+    height:auto;
+    width:300px
+}
+#yeye{
+    color:purple
+}
